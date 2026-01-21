@@ -71,4 +71,9 @@ To keep the dashboard fast, network tests run in the background via Cron.
 Simply run the script:
 ```bash
 ./minidash.sh
+```
+or
+```bash
+watch -n 5 -t ./minidash.sh
+```
 
