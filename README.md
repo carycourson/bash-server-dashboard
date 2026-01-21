@@ -4,7 +4,7 @@ A lightweight, zero-dependency TUI (Text User Interface) dashboard for monitorin
 
 **MiniDash** was built to provide an "at-a-glance" status of system health, network performance, and service availability without the overhead of heavy monitoring stacks like Grafana or Zabbix. It is written entirely in Bash and relies on standard Linux utilities.
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](minidash-screenshot.png)
 *(Note: Add a screenshot of your dashboard here!)*
 
 ## 🚀 Features
